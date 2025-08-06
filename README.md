@@ -169,11 +169,7 @@ Profile Screen
 → Streak History (via streak display showing historical streak data)
 
 Wireframes
-[Hand-drawn wireframe images will be uploaded to the wireframes/ folder in the repository]
-Core Wireframes to Include:
 
-Timer Screen with countdown and controls
-Task List Screen with add/edit functionality
-Analytics Screen with charts and statistics
-Settings Screen with customization options
-Navigation flow between all main screens
+![IMG_0282](https://github.com/user-attachments/assets/3bafc603-ffda-4acb-ad16-90e3edf10423)
+
+
