@@ -80,7 +80,8 @@ As a user, I want to export my productivity data so that I can analyze my patter
 As a user, I want to use focus session templates so that I can quickly start sessions for recurring work types (study, coding, writing, etc.)
 
 2. Screen Archetypes
-[x]Timer Screen (Main Interface)
+   
+[x] Timer Screen (Main Interface)
 
 Start, pause, and reset 25-minute focus sessions with visual countdown
 Display current task being worked on with progress indication
